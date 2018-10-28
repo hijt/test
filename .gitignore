@@ -1,4 +1,5 @@
  .gitignore
 node_modules/
 dist/
+Test/
 package-lock.json
